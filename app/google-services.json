@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980886947999",
+    "firebase_url": "https://virtual-adda-fad18.firebaseio.com",
+    "project_id": "virtual-adda-fad18",
+    "storage_bucket": "virtual-adda-fad18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980886947999:android:b4f78a6e13d194e8b0faaa",
+        "android_client_info": {
+          "package_name": "com.example.virtualadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980886947999-e48sg7p8ob9okvgv4no77ioi8jn9fnqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualadda",
+            "certificate_hash": "308a92004df236f6272682aad8abe9eb9046dfbf"
+          }
+        },
+        {
+          "client_id": "980886947999-80tnaf758m2etpjfteqep2d1gu4hb269.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDO4qnWx6Kn1pnUy4ndGBPTgqauygoFFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980886947999-80tnaf758m2etpjfteqep2d1gu4hb269.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
